@@ -10,3 +10,7 @@
 ``` python
 print('hello-world')
 ```
+
+- [ ] get noodles
+- [ ] eat noodles
+- [ ] use fuel to climb mountain
