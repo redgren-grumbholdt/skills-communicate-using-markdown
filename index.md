@@ -6,3 +6,7 @@
 ###### smallest
 
 ![Image of southeast southeast spur of Begguya](https://aac-publications.s3.amazonaws.com/articles/aaj-12197909100-1642112977.jpeg)
+
+``` python
+print('hello-world')
+```
